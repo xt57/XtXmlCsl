@@ -1,7 +1,9 @@
 ﻿
 //
+//  XmlTools
 //
-//
+
+//      This comment is being added just to observe VS Mac behavior
 
 using System;
 using System.Xml;
